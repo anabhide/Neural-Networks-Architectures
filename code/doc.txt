@@ -1,0 +1,1 @@
+This folder contains all the models including training and generting required images.
